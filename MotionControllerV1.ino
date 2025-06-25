@@ -22,7 +22,8 @@ bool buttonStates[6] = {false, false, false, false, false, false};
 
 void setup(){
   controller.begin();
-  mpu.begin();
+  Wire.begin();
+  mpu.initialize();
   lastTime = millis();
   pinMode(LED_BUILTIN, OUTPUT);
 }
