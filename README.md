@@ -5,13 +5,13 @@ Wiring table
 
 | MPU6050 & WIRES| PINS |
 | ------------- | ------------- |
-|  SDA | 21 |
-| SCL | 22 |
+|  SDA | GPIO 21 |
+| SCL | GPIO 22 |
 | VCC | 3.3V |
 | GND | GND |
-| Button1 | 33 |
-| Button2 | 32 |
-| Button3 | 12 |
-| Button4 | 13 |
-| Button5 | 15 |
-| Button6 | 4  |
+| Button1 | GPIO 33 |
+| Button2 | GPIO 32 |
+| Button3 | GPIO 12 |
+| Button4 | GPIO 13 |
+| Button5 | GPIO 15 |
+| Button6 | GPIO 4  |
