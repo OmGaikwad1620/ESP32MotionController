@@ -3,6 +3,8 @@
 #include <Arduino.h>
 #include <BleGamepad.h>
 
+//Made by https://github.com/OmGaikwad1620/ESP32MotionController/tree/main
+
 BleGamepad controller;
 
 MPU6050 mpu;//SCL(GPIO22),SDA(GPIO21).
