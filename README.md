@@ -1,5 +1,8 @@
 # ESP32MotionController
 ESP32 Motion Controller (MPU6050)
+
+Wiring table
+
 | MPU6050 & WIRES| PINS |
 | ------------- | ------------- |
 |  SDA | 21 |
