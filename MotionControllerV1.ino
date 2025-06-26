@@ -14,7 +14,7 @@ float gyroXangle = 0, gyroYangle = 0, gyroZangle = 0;
 unsigned long lastTime;
 
 const int touchPins[6] = {T0, T1, T2, T3, T4, T5}; 
-const int gpioPins[6]  = {13, 32, 33, 12, 4, 15};  
+const int gpioPins[6]  = {33, 32, 12, 13, 15, 4};  
 const int numButtons = 6;
 const int threshold = 60;
 
