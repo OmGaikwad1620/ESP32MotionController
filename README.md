@@ -1,6 +1,8 @@
 # ESP32MotionController
 ESP32 Motion Controller (MPU6050)
 
+Gamepad Library -> https://github.com/lemmingDev/ESP32-BLE-Gamepad
+
 Wiring table
 
 | MPU6050 & WIRES| PINS |
