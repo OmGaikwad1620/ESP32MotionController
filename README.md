@@ -1,7 +1,10 @@
 # ESP32MotionController
 ESP32 Motion Controller (MPU6050)
 
-Gamepad Library -> https://github.com/lemmingDev/ESP32-BLE-Gamepad
+This Controller works via Bluetooth.
+Inorder to make it connect to your computer, your computer must support bluetooth.
+
+BLE Gamepad Library -> https://github.com/lemmingDev/ESP32-BLE-Gamepad
 
 MPU6050 Wiring table
 
