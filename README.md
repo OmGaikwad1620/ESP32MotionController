@@ -12,7 +12,7 @@ MPU6050 Wiring table
 | VCC | 3.3V |
 | GND | GND |
 
-Touchbutton Wiring table
+Touchbutton Wiring Table
 | BUTTONS | GPIO PINS |
 | ------- | --------- |
 | Button1 | GPIO 33 |
@@ -21,3 +21,12 @@ Touchbutton Wiring table
 | Button4 | GPIO 13 |
 | Button5 | GPIO 15 |
 | Button6 | GPIO 4  |
+
+Joystick Wiring Table
+
+| Joystick | PINS |
+| ------------- | ------------- |
+| X | GPIO 35 |
+| Y | GPIO 34 |
+| VCC | 3.3V |
+| GND | GND |
