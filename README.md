@@ -5,6 +5,7 @@ This Controller works via Bluetooth.
 Inorder to make it connect to your computer, your computer must support bluetooth.
 
 BLE Gamepad Library -> https://github.com/lemmingDev/ESP32-BLE-Gamepad
+
 Test the controller -> https://www.onlinemictest.com/controller-tester
 
 MPU6050 Wiring table
