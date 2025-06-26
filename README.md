@@ -3,14 +3,18 @@ ESP32 Motion Controller (MPU6050)
 
 Gamepad Library -> https://github.com/lemmingDev/ESP32-BLE-Gamepad
 
-Wiring table
+MPU6050 Wiring table
 
-| MPU6050 & WIRES| PINS |
+| MPU6050 | PINS |
 | ------------- | ------------- |
 |  SDA | GPIO 21 |
 | SCL | GPIO 22 |
 | VCC | 3.3V |
 | GND | GND |
+
+Touchbutton Wiring table
+| BUTTONS | GPIO PINS |
+| ------- | --------- |
 | Button1 | GPIO 33 |
 | Button2 | GPIO 32 |
 | Button3 | GPIO 12 |
